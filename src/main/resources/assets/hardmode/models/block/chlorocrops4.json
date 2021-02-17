@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "hardmode:blocks/chlorocrops_stage4"
+    }
+}

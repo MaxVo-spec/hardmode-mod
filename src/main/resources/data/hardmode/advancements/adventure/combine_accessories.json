@@ -1,0 +1,46 @@
+{
+  "parent": "hardmode:adventure/get_rare_item",
+  "display": {
+    "icon": {
+      "item": "hardmode:molten_skull_band"
+    },
+    "title": {
+      "translate": "advancements.adventure.combine_accessories.title"
+    },
+    "description": {
+      "translate": "advancements.adventure.combine_accessories.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "molten_skull_band": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:molten_skull_band"
+          }
+        ]
+      }   
+    },
+    "celestial_stone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:celestial_stone"
+          }
+        ]
+      }   
+    }
+  },
+  "requirements": [
+    [
+      "molten_skull_band",
+      "celestial_stone"
+    ]
+  ]
+}

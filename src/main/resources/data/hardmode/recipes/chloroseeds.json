@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SCS",
+    "CSC",
+    "SCS"
+  ],
+  
+  "key": {
+    "S": 
+      {
+        "item": "hardmode:crystal_seeds"
+      },
+    
+    "C":
+      {
+        "item": "hardmode:chlorophyte_bar"
+      }
+  },
+  "result": {
+    "item": "hardmode:chloroseeds",
+    "count": 5
+  }
+}

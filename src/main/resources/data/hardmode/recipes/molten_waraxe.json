@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "X#X",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "hardmode:molten_rod"
+    },
+    "X": {
+      "item": "hardmode:molten_bar"
+    }
+  },
+  "result": {
+    "item": "hardmode:molten_waraxe"
+  }
+}

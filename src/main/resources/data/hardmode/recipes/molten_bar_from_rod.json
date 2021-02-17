@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  
+  "ingredients": [
+  
+    {"item": "hardmode:molten_rod"},
+    {"item": "hardmode:molten_rod"}
+     
+  ],
+  
+  "result": {
+    "item": "hardmode:molten_bar"
+  }
+}

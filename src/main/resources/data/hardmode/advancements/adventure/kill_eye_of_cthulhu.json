@@ -1,0 +1,38 @@
+{
+  "parent": "hardmode:adventure/kill_hardmode_mob",
+  "display": {
+    "icon": {
+      "item": "hardmode:crimson_essence"
+    },
+    "title": {
+      "translate": "advancements.adventure.kill_eye_of_cthulhu.title"
+    },
+    "description": {
+      "translate": "advancements.adventure.kill_eye_of_cthulhu.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "rewards": {
+    "experience": 500
+  },
+
+  "criteria": {
+    "hardmode:eye_of_cthulhu": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "hardmode:eye_of_cthulhu"
+        }
+      }
+    }
+   },
+    
+  "requirements": [
+    [
+      "hardmode:eye_of_cthulhu"
+    ]    
+  ]
+}

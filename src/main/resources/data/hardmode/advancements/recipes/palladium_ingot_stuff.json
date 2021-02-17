@@ -1,0 +1,39 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "hardmode:palladium_rod",
+      "hardmode:palladium_sword",
+      "hardmode:palladium_pickaxe",
+      "hardmode:palladium_waraxe",
+      "hardmode:palladium_shovel",
+      "hardmode:palladium_hoe",
+      "hardmode:palladium_helmet",
+      "hardmode:palladium_chestplate",
+      "hardmode:palladium_leggings",
+      "hardmode:palladium_boots",
+      "hardmode:palladium_block",
+      "hardmode:palladium_bricks",
+      "hardmode:palladium_repeater"
+    ]
+  },
+  "criteria": {
+    "has_palladium_ingot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:palladium_ingot"
+          }
+        ]
+      }
+   
+     }
+   }
+ },
+ "requirements": [
+    [
+      "has_palladium_ingot",
+    ]
+  ]
+}

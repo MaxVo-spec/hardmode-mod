@@ -1,0 +1,35 @@
+{
+  "parent": "hardmode:story/get_palladium_ore",
+  "display": {
+    "icon": {
+      "item": "hardmode:hellstone"
+    },
+    "title": {
+      "translate": "advancements.story.get_hellstone.title"
+    },
+    "description": {
+      "translate": "advancements.story.get_hellstone.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "hellstone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:hellstone"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "hellstone"
+    ]
+  ]
+}

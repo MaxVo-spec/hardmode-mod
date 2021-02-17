@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EVE",
+    "E E",
+    "E E"
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "V": {
+      "item": "hardmode:ender_dragon_essence"
+    }
+  },
+  "result": {
+    "item": "hardmode:emerald_leggings"
+  }
+}

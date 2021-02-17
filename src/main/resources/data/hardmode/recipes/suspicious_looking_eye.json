@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  
+  "ingredients": [
+  
+    {"item": "hardmode:lens"},
+    {"item": "hardmode:lens"},
+    {"item": "hardmode:lens"},
+    {"item": "hardmode:lens"},
+    {"item": "hardmode:lens"},
+    {"item": "hardmode:lens"},
+    {"item": "hardmode:palladium_ingot"},
+    {"item": "hardmode:orichalcum_ingot"},
+    {"item": "hardmode:adamantite_ingot"}
+    
+  ],
+  
+  "result": {
+    "item": "hardmode:suspicious_looking_eye"
+    }
+}

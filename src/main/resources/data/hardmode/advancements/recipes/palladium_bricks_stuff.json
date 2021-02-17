@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "hardmode:palladium_stairs",
+      "hardmode:palladium_slab"
+    ]
+  },
+  "criteria": {
+    "has_palladium_bricks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:palladium_bricks"
+          }
+        ]
+      }
+   
+     }
+   }
+ },
+ "requirements": [
+    [
+      "has_palladium_bricks",
+    ]
+  ]
+}

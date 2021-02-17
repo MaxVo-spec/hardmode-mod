@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ALA",
+    "P P"
+  ],
+  "key": {
+    "L": {
+      "item": "hardmode:life_crystal"
+    },
+     "A": {
+      "item": "hardmode:adamantite_ingot"
+    },
+     "P": {
+      "item": "hardmode:palladium_ingot"
+    }
+  },
+  "result": {
+    "item": "hardmode:life_band"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "parent": "hardmode:story/get_dragon_pickaxe",
+  "display": {
+    "icon": {
+      "item": "hardmode:palladium_ore"
+    },
+    "title": {
+      "translate": "advancements.story.get_palladium_ore.title"
+    },
+    "description": {
+      "translate": "advancements.story.get_palladium_ore.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "palladium_ore": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:palladium_ore"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "palladium_ore"
+    ]
+  ]
+}

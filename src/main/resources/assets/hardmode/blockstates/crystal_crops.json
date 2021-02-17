@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "age=0": { "model": "hardmode:block/crystal_crops0" },
+        "age=1": { "model": "hardmode:block/crystal_crops1" },
+        "age=2": { "model": "hardmode:block/crystal_crops2" },
+        "age=3": { "model": "hardmode:block/crystal_crops3" },
+        "age=4": { "model": "hardmode:block/crystal_crops4" },
+        "age=5": { "model": "hardmode:block/crystal_crops5" },
+        "age=6": { "model": "hardmode:block/crystal_crops6" },
+        "age=7": { "model": "hardmode:block/crystal_crops7" }
+    }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "E E",
+    "EVE"
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "V": {
+      "item": "hardmode:shadow_essence"
+    }
+  },
+  "result": {
+    "item": "hardmode:emerald_boots"
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "hardmode:block/chlorophyte_slab" },
+        "type=top": { "model": "hardmode:block/chlorophyte_slab_top" },
+        "type=double": { "model": "hardmode:block/chlorophyte_bricks" }
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  
+  "ingredients": [
+  
+    {"item":"minecraft:glass_bottle"},
+    {"item":"minecraft:glass_bottle"},
+    {"item":"minecraft:glass_bottle"},
+    {"item":"minecraft:glass_bottle"},
+    {"item":"minecraft:glass_bottle"},
+    {"item":"minecraft:glass_bottle"},
+    {"item":"minecraft:glass_bottle"},
+    {"item":"minecraft:glass_bottle"},
+    {"item": "hardmode:life_crystal"}
+    
+  ],
+  
+  "result": {
+    "item": "hardmode:instant_healing_potion",
+    "count": 12
+  }
+}

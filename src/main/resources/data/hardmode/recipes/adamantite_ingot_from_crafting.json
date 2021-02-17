@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  
+  "ingredients": [
+  
+    {"item": "hardmode:adamantite_block"}
+    
+  ],
+  
+  "result": {
+    "item": "hardmode:adamantite_ingot",
+    "count": 9
+  }
+}

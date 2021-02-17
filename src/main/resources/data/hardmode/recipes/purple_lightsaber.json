@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "E",
+    "S",
+    "I"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "hardmode:star_fragment"
+    },
+     "E": {
+      "item": "hardmode:ender_dragon_essence"
+    }
+  },
+  "result": {
+    "item": "hardmode:purple_lightsaber"
+  }
+}

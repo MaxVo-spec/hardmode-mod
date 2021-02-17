@@ -1,0 +1,364 @@
+{
+	"super_star_theme": {
+		"category": "master",
+		"subtitle": "Super Star Used",
+		"sounds": [
+			{
+				"name": "hardmode:master/super_star_theme",
+				"stream": true
+			}
+		]
+		
+	},
+	
+	"lightsaber_sound": {
+		"category": "master",
+		"subtitle": "Lightsaber Battle",
+		"sounds": [
+			{
+				"name": "hardmode:master/lightsaber_1",
+				"stream": false
+			},
+			
+			{
+			    "name": "hardmode:master/lightsaber_2",
+				"stream": false
+			}
+		]
+		
+	},
+	
+	"molten_core_sound": {
+		"category": "master",
+		"subtitle": "Molten Core Used",
+		"sounds": [
+			{
+				"name": "hardmode:master/molten_core",
+				"stream": true
+			}
+		]
+		
+	},
+	
+	"eye_of_cthulhu_scream": {
+		"category": "hostile",
+		"subtitle": "Uh-oh...",
+		"sounds": [
+			{
+				"name": "hardmode:hostile/eye_of_cthulhu_scream",
+				"stream": false
+			}
+		]
+		
+	},
+	
+	"scream": {
+		"category": "master",
+		"subtitle": "Uh-oh...",
+		"sounds": [
+			{
+				"name": "hardmode:master/scream",
+				"stream": false
+			}
+		]
+		
+	},
+	
+	"dragon_blade_dash": {
+		"category": "master",
+		"subtitle": "Dragon Blade Dashing",
+		"sounds": [
+			{
+				"name": "hardmode:master/dragon_blade_dash",
+				"stream": false
+			}
+		]
+		
+	},
+	
+	"werewolf_ambient": {
+		"category": "hostile",
+		"subtitle": "Werewolf Ambient",
+		"sounds": [
+			{
+				"name": "hardmode:hostile/werewolf_ambient1",
+				"stream": false
+			},
+			
+			{
+			    "name": "hardmode:hostile/werewolf_ambient2",
+				"stream": false
+			}
+		]
+		
+	},
+	
+	"werewolf_hit": {
+		"category": "hostile",
+		"subtitle": "Werewolf Hit",
+		"sounds": [
+				
+			{
+			    "name": "hardmode:hostile/werewolf_hit",
+				"stream": false
+			}
+		]
+		
+	},
+	
+	"werewolf_death": {
+		"category": "hostile",
+		"subtitle": "Werewolf Dies",
+		"sounds": [
+				
+			{
+			    "name": "hardmode:hostile/werewolf_death",
+				"stream": false
+			}
+		]
+		
+	},
+	
+	"psycho_ambient": {
+		"category": "hostile",
+		"subtitle": "Psycho Ambient",
+		"sounds": [
+				
+			{
+			    "name": "hardmode:hostile/psycho_ambient",
+				"stream": false
+			}
+		]
+		
+	},
+	
+	"reaper_ambient": {
+		"category": "hostile",
+		"subtitle": "Reaper Ambient",
+		"sounds": [
+				
+			{
+			    "name": "hardmode:hostile/reaper_ambient1",
+				"stream": false
+			},
+			{
+			    "name": "hardmode:hostile/reaper_ambient2",
+				"stream": false
+			},
+			{
+			    "name": "hardmode:hostile/reaper_ambient3",
+				"stream": false
+			}
+		]
+		
+	},
+	
+	"reaper_hit": {
+		"category": "hostile",
+		"subtitle": "Reaper Hit",
+		"sounds": [
+				
+			{
+			    "name": "hardmode:hostile/reaper_hit",
+				"stream": false
+			}
+		]
+		
+	},
+	
+	"reaper_death": {
+		"category": "hostile",
+		"subtitle": "Reaper Dies",
+		"sounds": [
+				
+			{
+			    "name": "hardmode:hostile/reaper_death",
+				"stream": false
+			}
+		]
+		
+	},
+	
+	"nano_boost": {
+		"category": "master",
+		"subtitle": "Nano Boost Used",
+		"sounds": [
+				
+			{
+			    "name": "hardmode:master/nano_boost",
+				"stream": false
+			}
+		]
+		
+	},
+	
+	"titan_ambient": {
+		"category": "hostile",
+		"subtitle": "Titan Ambient",
+		"sounds": [
+				
+			{
+			    "name": "hardmode:hostile/titan_ambient1",
+				"stream": true
+			},
+			{
+			    "name": "hardmode:hostile/titan_ambient2",
+				"stream": true
+			},
+			{
+			    "name": "hardmode:hostile/titan_ambient3",
+				"stream": true
+			}
+		]
+		
+	},
+	
+	"titan_hit": {
+		"category": "hostile",
+		"subtitle": "Titan Hit",
+		"sounds": [
+				
+			{
+			    "name": "hardmode:hostile/titan_hit1",
+				"stream": false
+			},
+			{
+			    "name": "hardmode:hostile/titan_hit2",
+				"stream": false
+			}
+		]
+		
+	},
+	
+	"titan_death": {
+		"category": "hostile",
+		"subtitle": "Titan Dies",
+		"sounds": [
+				
+			{
+			    "name": "hardmode:hostile/titan_death",
+				"stream": true
+			}
+		]
+		
+	},
+	
+	"warp_star": {
+		"category": "master",
+		"subtitle": "Warp Star Used",
+		"sounds": [
+				
+			{
+			    "name": "hardmode:master/warp_star",
+				"stream": true
+			}
+		]
+		
+	},
+	
+	"magic_mirror": {
+		"category": "master",
+		"subtitle": "Magic Mirror Used",
+		"sounds": [
+				
+			{
+			    "name": "hardmode:master/magic_mirror",
+				"stream": true
+			}
+		]
+		
+	},
+	
+	"instant_healing_potion": {
+		"category": "master",
+		"subtitle": "Instant Healing Potion Used",
+		"sounds": [
+				
+			{
+			    "name": "hardmode:master/instant_healing_potion",
+				"stream": false
+			}
+		]
+		
+	},
+	
+	"life_crystal": {
+		"category": "master",
+		"subtitle": "Life Crystal Used",
+		"sounds": [
+				
+			{
+			    "name": "hardmode:master/life_crystal",
+				"stream": false
+			}
+		]
+		
+	},
+
+	
+	"eye_hit": {
+		"category": "hostile",
+		"subtitle": "Eye Hit",
+		"sounds": [
+				
+			{
+			    "name": "hardmode:hostile/eye_hit",
+				"stream": false
+			}
+		]
+		
+	},
+	
+	"eye_death": {
+		"category": "hostile",
+		"subtitle": "Eye Dies",
+		"sounds": [
+				
+			{
+			    "name": "hardmode:hostile/eye_death",
+				"stream": false
+			}
+		]
+		
+	},
+	
+	"face_monster_ambient": {
+		"category": "hostile",
+		"subtitle": "Face Monster Ambient",
+		"sounds": [
+				
+			{
+			    "name": "hardmode:hostile/face_monster_ambient",
+				"stream": false
+			}
+		]
+		
+	},
+	
+	"face_monster_hit": {
+		"category": "hostile",
+		"subtitle": "Face Monster Hit",
+		"sounds": [
+				
+			{
+			    "name": "hardmode:hostile/face_monster_hit",
+				"stream": false
+			}
+		]
+		
+	},
+	
+	"face_monster_death": {
+		"category": "hostile",
+		"subtitle": "Face Monster Dies",
+		"sounds": [
+				
+			{
+			    "name": "hardmode:hostile/face_monster_death",
+				"stream": false
+			}
+		]
+		
+	}
+	
+}

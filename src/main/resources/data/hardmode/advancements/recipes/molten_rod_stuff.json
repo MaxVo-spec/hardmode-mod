@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "hardmode:molten_sword",
+      "hardmode:molten_pickaxe",
+      "hardmode:molten_waraxe",
+      "hardmode:molten_shovel",
+      "hardmode:molten_hoe",
+      "hardmode:molten_bar_from_rod"
+    ]
+  },
+  "criteria": {
+    "has_molten_rod": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:molten_rod"
+          }
+        ]
+      }
+   
+     }
+   }
+ },
+ "requirements": [
+    [
+      "has_molten_rod",
+    ]
+  ]
+}

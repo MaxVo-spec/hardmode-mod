@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "hardmode:block/molten_slab" },
+        "type=top": { "model": "hardmode:block/molten_slab_top" },
+        "type=double": { "model": "hardmode:block/molten_bricks" }
+    }
+}

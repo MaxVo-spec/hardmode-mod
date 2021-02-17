@@ -1,0 +1,9 @@
+
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "hardmode:blocks/molten_bricks",
+        "top": "hardmode:blocks/molten_bricks",
+        "side": "hardmode:blocks/molten_bricks"
+    }
+}

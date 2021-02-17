@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    "CMC",
+    " C "
+  ],
+  
+   "key": {
+      "M": {
+      "item": "hardmode:moon_stone"
+      },
+      
+      "C": {
+      "item": "hardmode:chlorophyte_bar"
+      }
+      
+    },
+   "result": {
+    "item": "hardmode:sun_stone"
+  }
+}

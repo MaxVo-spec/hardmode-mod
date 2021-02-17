@@ -1,0 +1,40 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "hardmode:molten_rod",
+      "hardmode:molten_sword",
+      "hardmode:molten_pickaxe",
+      "hardmode:molten_waraxe",
+      "hardmode:molten_shovel",
+      "hardmode:molten_hoe",
+      "hardmode:molten_helmet",
+      "hardmode:molten_chestplate",
+      "hardmode:molten_leggings",
+      "hardmode:molten_boots",
+      "hardmode:molten_block",
+      "hardmode:molten_bricks",
+      "hardmode:molten_repeater",
+      "hardmode:molten_core"
+    ]
+  },
+  "criteria": {
+    "has_molten_bar": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:molten_bar"
+          }
+        ]
+      }
+   
+     }
+   }
+ },
+ "requirements": [
+    [
+      "has_molten_bar",
+    ]
+  ]
+}

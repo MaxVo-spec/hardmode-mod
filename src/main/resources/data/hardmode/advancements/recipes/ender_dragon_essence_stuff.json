@@ -1,0 +1,46 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "hardmode:dragon_breath",
+      "hardmode:dragon_sword",
+      "hardmode:dragon_pickaxe",
+      "hardmode:dragon_helmet",
+      "hardmode:dragon_chestplate",
+      "hardmode:dragon_leggings",
+      "hardmode:dragon_boots",
+      "hardmode:emerald_sword2",
+      "hardmode:emerald_pickaxe2",
+      "hardmode:emerald_waraxe2",
+      "hardmode:emerald_helmet2",
+      "hardmode:emerald_chestplate2",
+      "hardmode:emerald_leggings2",
+      "hardmode:emerald_boots2",
+      "hardmode:dragon_sword_emerald",
+      "hardmode:dragon_pickaxe_emerald",
+      "hardmode:dragon_helmet_emerald",
+      "hardmode:dragon_chestplate_emerald",
+      "hardmode:dragon_leggings_emerald",
+      "hardmode:dragon_boots_emerald"  
+    ]
+  },
+  "criteria": {
+    "has_ender_dragon_essence": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:ender_dragon_essence"
+          }
+        ]
+      }
+   
+     }
+   }
+ },
+ "requirements": [
+    [
+      "has_ender_dragon_essence",
+    ]
+  ]
+}

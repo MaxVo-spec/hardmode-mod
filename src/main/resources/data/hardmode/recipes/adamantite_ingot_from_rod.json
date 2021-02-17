@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  
+  "ingredients": [
+  
+    {"item": "hardmode:adamantite_rod"},
+    {"item": "hardmode:adamantite_rod"}
+     
+  ],
+  
+  "result": {
+    "item": "hardmode:adamantite_ingot"
+  }
+}

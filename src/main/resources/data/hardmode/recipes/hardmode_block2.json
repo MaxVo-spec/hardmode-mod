@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CSC",
+    "CEC"
+  ],
+  
+   "key": {
+      "C": {
+      "item": "hardmode:crystal_shard"
+      },
+      
+      "E": {
+      "item": "hardmode:ender_dragon_essence"
+      },
+      
+      "S": {
+      "item": "hardmode:shadow_essence"
+      }
+      
+    },
+   "result": {
+    "item": "hardmode:hardmode_block",
+    "count": 16
+  }
+}

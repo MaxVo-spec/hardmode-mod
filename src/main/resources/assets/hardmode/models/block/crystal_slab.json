@@ -1,0 +1,9 @@
+
+{
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "hardmode:blocks/crystal_block",
+        "top": "hardmode:blocks/crystal_block",
+        "side": "hardmode:blocks/crystal_block"
+    }
+}

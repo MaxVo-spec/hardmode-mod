@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CAC",
+    "CCC"
+  ],
+  
+   "key": {
+      "A": {
+      "item": "hardmode:adamantite_pickaxe"
+      },
+      
+      "C": {
+      "item": "hardmode:crimson_essence"
+      }
+      
+    },
+   "result": {
+    "item": "hardmode:crimson_pickaxe"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "STS",
+    " A "
+  ],
+  "key": {
+  
+    "A": {
+      "item": "hardmode:adamantite_ingot"
+    },
+    
+    "S": {
+      "item": "hardmode:super_string"
+    },
+    
+    "T": {
+      "item": "minecraft:tripwire_hook"
+    }
+  },
+  "result": {
+    "item": "hardmode:adamantite_repeater"
+  }
+}

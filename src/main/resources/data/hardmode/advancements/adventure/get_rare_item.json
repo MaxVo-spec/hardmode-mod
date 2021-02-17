@@ -1,0 +1,112 @@
+{
+  "parent": "hardmode:adventure/kill_hardmode_mob",
+  "display": {
+    "icon": {
+      "item": "hardmode:moon_stone"
+    },
+    "title": {
+      "translate": "advancements.adventure.get_rare_item.title"
+    },
+    "description": {
+      "translate": "advancements.adventure.get_rare_item.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "moon_stone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:moon_stone"
+          }
+        ]
+      }
+    },
+    "psycho_knife": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:psycho_knife"
+          }
+        ]
+      }
+    },
+    "death_scythe": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:death_scythe"
+          }
+        ]
+      }
+    },
+    "katana": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:katana"
+          }
+        ]
+      }
+    },
+    "blazing_skull": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:blazing_skull"
+          }
+        ]
+      }
+    },
+    "magic_mirror": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:shattered_magic_mirror"
+          }
+        ]
+      }
+    },
+    "infernal_hammer": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:infernal_hammer"
+          }
+        ]
+      }
+    },
+    "titan_ring": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:titan_ring"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "moon_stone",
+      "psycho_knife",
+      "death_scythe",
+      "katana",
+      "blazing_skull",
+      "magic_mirror",
+      "infernal_hammer",
+      "titan_ring"
+    ]
+  ]
+}

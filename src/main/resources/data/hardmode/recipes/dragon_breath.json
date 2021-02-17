@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  
+  "ingredients": [
+  
+    {"item":"minecraft:glass_bottle"},
+    {"item": "hardmode:ender_dragon_essence"}
+    
+  ],
+  
+  "result": {
+    "item": "minecraft:dragon_breath"
+  }
+}

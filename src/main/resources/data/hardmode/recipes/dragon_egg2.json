@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EOE",
+    "OSO",
+    "EOE"
+  ],
+  
+   "key": {
+      "O": {
+      "item": "minecraft:obsidian"
+      },
+      
+      "E": {
+      "item": "minecraft:end_crystal"
+      },
+      
+      "S": {
+      "item": "hardmode:shadow_core_item"
+      }
+      
+    },
+   "result": {
+    "item": "minecraft:dragon_egg"
+  }
+}

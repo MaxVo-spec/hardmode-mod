@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  
+  "ingredients": [
+  
+    {"item": "hardmode:palladium_ingot"}
+    
+  ],
+  
+  "result": {
+    "item": "hardmode:palladium_rod",
+    "count": 2
+  }
+}

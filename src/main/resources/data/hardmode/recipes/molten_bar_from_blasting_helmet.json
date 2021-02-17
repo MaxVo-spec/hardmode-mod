@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "hardmode:molten_helmet"
+  },
+  
+  "result": "hardmode:molten_bar",
+  "experience": 1.5,
+  "cookingtime": 200
+}

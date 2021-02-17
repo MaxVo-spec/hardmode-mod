@@ -1,0 +1,35 @@
+{
+  "parent": "hardmode:story/get_dragon_pickaxe",
+  "display": {
+    "icon": {
+      "item": "hardmode:star_fragment"
+    },
+    "title": {
+      "translate": "advancements.story.get_star_chunk.title"
+    },
+    "description": {
+      "translate": "advancements.story.get_star_chunk.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "star_chunk": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:star_chunk"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "star_chunk"
+    ]
+  ]
+}

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "hardmode:block/palladium_slab" },
+        "type=top": { "model": "hardmode:block/palladium_slab_top" },
+        "type=double": { "model": "hardmode:block/palladium_bricks" }
+    }
+}

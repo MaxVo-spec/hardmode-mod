@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "hardmode:palladium_ingot"
+    }
+  },
+  "result": {
+    "item": "hardmode:palladium_bricks",
+    "count": 8
+  }
+}

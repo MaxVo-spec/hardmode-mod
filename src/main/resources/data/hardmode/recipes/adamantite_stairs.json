@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "hardmode:adamantite_bricks"
+    }
+  },
+  "result": {
+    "item": "hardmode:adamantite_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "hardmode:crystal_block",
+      "hardmode:crystal_apple",
+      "hardmode:true_rgb_lightsaber",
+      "hardmode:instant_healing_potion",
+      "hardmode:hardmode_block"
+    ]
+  },
+  "criteria": {
+    "has_crystal_shard": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:crystal_shard"
+          }
+        ]
+      }
+   
+     }
+   }
+ },
+ "requirements": [
+    [
+      "has_crystal_shard",
+    ]
+  ]
+}

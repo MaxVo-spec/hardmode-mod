@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CSC",
+    "SMS",
+    "CSC"
+  ],
+  
+   "key": {
+      "C": {
+      "item": "hardmode:crystal_shard"
+      },
+      
+      "S": {
+      "item": "hardmode:star_fragment"
+      },
+      
+      "M": {
+      "item": "hardmode:shattered_magic_mirror"
+      }
+      
+      
+    },
+   "result": {
+    "item": "hardmode:magic_mirror"
+  }
+}

@@ -1,0 +1,9 @@
+
+{
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "hardmode:blocks/chlorophyte_bricks",
+        "top": "hardmode:blocks/chlorophyte_bricks",
+        "side": "hardmode:blocks/chlorophyte_bricks"
+    }
+}

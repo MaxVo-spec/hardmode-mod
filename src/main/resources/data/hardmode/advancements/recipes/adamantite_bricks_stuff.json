@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "hardmode:adamantite_stairs",
+      "hardmode:adamantite_slab"
+    ]
+  },
+  "criteria": {
+    "has_adamantite_bricks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:adamantite_bricks"
+          }
+        ]
+      }
+   
+     }
+   }
+ },
+ "requirements": [
+    [
+      "has_adamantite_bricks",
+    ]
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "hardmode:palladium_repeater",
+      "hardmode:orichalcum_repeater",
+      "hardmode:adamantite_repeater",
+      "hardmode:molten_repeater"
+    ]
+  },
+  "criteria": {
+    "has_super_string": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:super_string"
+          }
+        ]
+      }
+   
+     }
+   }
+ },
+ "requirements": [
+    [
+      "has_super_string",
+    ]
+  ]
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "hardmode:blocks/crystal_crops_stage6"
+    }
+}

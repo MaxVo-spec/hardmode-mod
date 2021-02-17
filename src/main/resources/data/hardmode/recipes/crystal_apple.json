@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CAC",
+    "CCC"
+  ],
+  
+   "key": {
+      "C": {
+      "item": "hardmode:crystal_shard"
+      },
+      
+      "A": {
+      "item": "minecraft:golden_apple"
+      }
+      
+    },
+   "result": {
+    "item": "hardmode:crystal_apple"
+  }
+}

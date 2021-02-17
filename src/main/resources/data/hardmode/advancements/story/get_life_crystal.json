@@ -1,0 +1,35 @@
+{
+  "parent": "hardmode:story/get_dragon_pickaxe",
+  "display": {
+    "icon": {
+      "item": "hardmode:life_crystal"
+    },
+    "title": {
+      "translate": "advancements.story.get_life_crystal.title"
+    },
+    "description": {
+      "translate": "advancements.story.get_life_crystal.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "life_crystal": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:life_crystal"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "life_crystal"
+    ]
+  ]
+}

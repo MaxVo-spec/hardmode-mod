@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "hardmode:super_star",
+      "hardmode:red_lightsaber",
+      "hardmode:yellow_lightsaber",
+      "hardmode:green_lightsaber",
+      "hardmode:blue_lightsaber",
+      "hardmode:purple_lightsaber",
+      "hardmode:white_lightsaber",
+      "hardmode:enlightenment_pickaxe",
+      "hardmode:warp_star"
+    ]
+  },
+  "criteria": {
+    "has_star_fragment": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:star_fragment"
+          }
+        ]
+      }
+   
+     }
+   }
+ },
+ "requirements": [
+    [
+      "has_star_fragment",
+    ]
+  ]
+}

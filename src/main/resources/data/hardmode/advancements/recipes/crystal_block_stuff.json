@@ -1,0 +1,30 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "hardmode:crystal_stairs",
+      "hardmode:crystal_slab",
+      "hardmode:crystal_stairs_from_stonecutting",
+      "hardmode:crystal_slab_from_stonecutting"
+    ]
+  },
+  "criteria": {
+    "has_crystal_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:crystal_block"
+          }
+        ]
+      }
+   
+     }
+   }
+ },
+ "requirements": [
+    [
+      "has_crystal_block",
+    ]
+  ]
+}

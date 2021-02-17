@@ -1,0 +1,36 @@
+{
+  "parent": "hardmode:adventure/kill_hardmode_mob",
+  "display": {
+    "icon": {
+      "item": "hardmode:adamantite_sword",
+      "nbt": "{Damage:0}"
+    },
+    "title": {
+      "translate": "advancements.adventure.kill_titan.title"
+    },
+    "description": {
+      "translate": "advancements.adventure.kill_titan.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+
+  "criteria": {
+    "hardmode:titan": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "hardmode:titan"
+        }
+      }
+    }
+   },
+    
+  "requirements": [
+    [
+      "hardmode:titan"
+    ]    
+  ]
+}

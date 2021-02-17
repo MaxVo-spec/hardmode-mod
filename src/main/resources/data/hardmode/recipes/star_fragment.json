@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "hardmode:star_chunk"
+  },
+  
+  "result": "hardmode:star_fragment",
+  "experience": 2.5,
+  "cookingtime": 200
+}

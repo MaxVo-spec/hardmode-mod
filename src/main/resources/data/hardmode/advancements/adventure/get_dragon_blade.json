@@ -1,0 +1,36 @@
+{
+  "parent": "hardmode:adventure/get_rare_item",
+  "display": {
+    "icon": {
+      "item": "hardmode:true_dragon_blade",
+      "nbt": "{Damage:0}"
+    },
+    "title": {
+      "translate": "advancements.adventure.get_dragon_blade.title"
+    },
+    "description": {
+      "translate": "advancements.adventure.get_dragon_blade.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "dragon_blade": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:true_dragon_blade"
+          }
+        ]
+      }   
+    }
+  },
+  "requirements": [
+    [
+      "dragon_blade"
+    ]
+  ]
+}

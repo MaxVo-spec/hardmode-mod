@@ -1,0 +1,35 @@
+{
+  "parent": "hardmode:adventure/kill_eye_of_cthulhu",
+  "display": {
+    "icon": {
+      "item": "hardmode:chlorophyte_ore"
+    },
+    "title": {
+      "translate": "advancements.adventure.get_chlorophyte_ore.title"
+    },
+    "description": {
+      "translate": "advancements.adventure.get_chlorophyte_ore.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "chlorophyte_ore": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:chlorophyte_ore"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "chlorophyte_ore"
+    ]
+  ]
+}

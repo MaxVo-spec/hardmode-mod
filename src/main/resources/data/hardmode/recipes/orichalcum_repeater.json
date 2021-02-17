@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OOO",
+    "STS",
+    " O "
+  ],
+  "key": {
+  
+    "O": {
+      "item": "hardmode:orichalcum_ingot"
+    },
+    
+    "S": {
+      "item": "hardmode:super_string"
+    },
+    
+    "T": {
+      "item": "minecraft:tripwire_hook"
+    }
+  },
+  "result": {
+    "item": "hardmode:orichalcum_repeater"
+  }
+}

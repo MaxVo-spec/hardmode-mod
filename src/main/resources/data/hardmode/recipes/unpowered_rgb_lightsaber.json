@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  
+  "ingredients": [
+  
+    {"item":"hardmode:red_lightsaber"},
+    {"item":"hardmode:yellow_lightsaber"},
+    {"item":"hardmode:green_lightsaber"},
+    {"item":"hardmode:blue_lightsaber"},
+    {"item":"hardmode:purple_lightsaber"}
+  ],
+  
+  "result": {
+    "item": "hardmode:unpowered_rgb_lightsaber"
+  }
+}

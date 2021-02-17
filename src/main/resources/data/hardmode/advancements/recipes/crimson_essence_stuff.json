@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "hardmode:crimson_blade",
+      "hardmode:crimson_pickaxe"
+    ]
+  },
+  "criteria": {
+    "has_crimson_essence": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:crimson_essence"
+          }
+        ]
+      }
+   
+     }
+   }
+ },
+ "requirements": [
+    [
+      "has_crimson_essence",
+    ]
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SDS",
+    "DPD",
+    "DDD"
+  ],
+  
+   "key": {
+      "D": {
+      "item": "hardmode:ender_dragon_essence"
+      },
+      
+      "S": {
+      "item": "hardmode:shadow_essence"
+      },
+      
+      "P": {
+      "item": "hardmode:emerald_pickaxe"
+      }
+      
+    },
+   "result": {
+    "item": "hardmode:dragon_pickaxe"
+  }
+}

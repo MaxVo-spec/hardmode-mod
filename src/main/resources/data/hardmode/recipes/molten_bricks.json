@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "hardmode:molten_bar"
+    }
+  },
+  "result": {
+    "item": "hardmode:molten_bricks",
+    "count": 8
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MLM",
+    "MBM"
+  ],
+  "key": {
+    "L": {
+      "item": "hardmode:life_band"
+    },
+     "B": {
+      "item": "hardmode:blazing_skull"
+    },
+     "M": {
+      "item": "hardmode:molten_bar"
+    }
+  },
+  "result": {
+    "item": "hardmode:molten_skull_band"
+  }
+}

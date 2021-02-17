@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  
+  "ingredients": [
+  
+    {"item": "hardmode:orichalcum_rod"},
+    {"item": "hardmode:orichalcum_rod"}
+     
+  ],
+  
+  "result": {
+    "item": "hardmode:orichalcum_ingot"
+  }
+}

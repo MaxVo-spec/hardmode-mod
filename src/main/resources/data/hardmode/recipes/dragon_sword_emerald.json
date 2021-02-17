@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SDS",
+    "DED",
+    "DDD"
+  ],
+  
+   "key": {
+      "D": {
+      "item": "hardmode:ender_dragon_essence"
+      },
+      
+      "S": {
+      "item": "hardmode:shadow_essence"
+      },
+      
+      "E": {
+      "item": "hardmode:emerald_sword"
+      }
+      
+    },
+   "result": {
+    "item": "hardmode:dragon_sword"
+  }
+}

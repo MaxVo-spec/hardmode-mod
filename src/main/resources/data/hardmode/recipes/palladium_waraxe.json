@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "X#X",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "hardmode:palladium_rod"
+    },
+    "X": {
+      "item": "hardmode:palladium_ingot"
+    }
+  },
+  "result": {
+    "item": "hardmode:palladium_waraxe"
+  }
+}

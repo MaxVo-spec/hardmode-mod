@@ -1,0 +1,6 @@
+{
+   "parent": "item/generated",
+   "textures": {
+        "layer0": "hardmode:items/eye_of_cthulhu_treasure_bag" 
+        }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MMM",
+    "STS",
+    " M "
+  ],
+  "key": {
+  
+    "M": {
+      "item": "hardmode:molten_bar"
+    },
+    
+    "S": {
+      "item": "hardmode:super_string"
+    },
+    
+    "T": {
+      "item": "minecraft:tripwire_hook"
+    }
+  },
+  "result": {
+    "item": "hardmode:molten_repeater"
+  }
+}

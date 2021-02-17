@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "hardmode:crystal_block"
+  },
+  "result": "hardmode:crystal_stairs",
+  "count": 1
+}

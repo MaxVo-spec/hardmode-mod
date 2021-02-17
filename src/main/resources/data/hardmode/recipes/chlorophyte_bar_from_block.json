@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  
+  "ingredients": [
+  
+    {"item": "hardmode:chlorophyte_block"}
+    
+  ],
+  
+  "result": {
+    "item": "hardmode:chlorophyte_bar",
+    "count": 9
+  }
+}

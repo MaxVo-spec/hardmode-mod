@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "hardmode:block/adamantite_slab" },
+        "type=top": { "model": "hardmode:block/adamantite_slab_top" },
+        "type=double": { "model": "hardmode:block/adamantite_bricks" }
+    }
+}

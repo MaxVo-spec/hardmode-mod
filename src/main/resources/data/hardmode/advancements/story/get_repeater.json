@@ -1,0 +1,79 @@
+{
+  "parent": "hardmode:story/get_palladium_ore",
+  "display": {
+    "icon": {
+      "item": "hardmode:orichalcum_repeater"
+    },
+    "title": {
+      "translate": "advancements.story.get_repeater.title"
+    },
+    "description": {
+      "translate": "advancements.story.get_repeater.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "palladium_repeater": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:palladium_repeater"   
+          }
+        ]
+      }
+    },
+    "orichalcum_repeater": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:orichalcum_repeater"   
+          }
+        ]
+      }
+    },
+    "adamantite_repeater": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:adamantite_repeater"   
+          }
+        ]
+      }
+    },
+    "molten_repeater": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:molten_repeater"   
+          }
+        ]
+      }
+    },
+    "chlorophyte_repeater": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:chlorophyte_repeater"   
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "palladium_repeater",
+      "orichalcum_repeater",
+      "adamantite_repeater",
+      "molten_repeater",
+      "chlorophyte_repeater"
+    ]
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "hardmode:chlorophyte_bricks"
+    }
+  },
+  "result": {
+    "item": "hardmode:chlorophyte_slab",
+    "count": 6
+  }
+}

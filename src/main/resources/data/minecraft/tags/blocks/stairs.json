@@ -1,0 +1,11 @@
+{
+	"replace": false,
+	"values": [
+		"hardmode:crystal_stairs",
+		"hardmode:palladium_stairs",
+		"hardmode:orichalcum_stairs",
+		"hardmode:adamantite_stairs",
+		"hardmode:molten_stairs",
+		"hardmode:chlorophyte_stairs"
+	]
+}

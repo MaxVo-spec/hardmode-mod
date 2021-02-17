@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "R",
+    "S",
+    "I"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "hardmode:star_fragment"
+    },
+     "R": {
+      "item": "minecraft:redstone_block"
+    }
+  },
+  "result": {
+    "item": "hardmode:red_lightsaber"
+  }
+}

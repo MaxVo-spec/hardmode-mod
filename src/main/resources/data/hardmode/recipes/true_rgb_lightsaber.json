@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CLC",
+    "CCC"
+  ],
+  
+   "key": {
+      "C": {
+      "item": "hardmode:crystal_shard"
+      },
+      
+      "L": {
+      "item": "hardmode:unpowered_rgb_lightsaber"
+      }
+      
+    },
+   "result": {
+    "item": "hardmode:true_rgb_lightsaber"
+  }
+}

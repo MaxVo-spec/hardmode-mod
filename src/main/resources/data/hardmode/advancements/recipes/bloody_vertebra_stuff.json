@@ -1,0 +1,31 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "hardmode:bloody_vertebra_mask",
+      "hardmode:bloody_vertebra_torso",
+      "hardmode:bloody_vertebra_leggings",
+      "hardmode:bloody_vertebra_boots",
+      "hardmode:bone_meal_from_bloody_vertebra"
+    ]
+  },
+  "criteria": {
+    "has_bloody_vertebra": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:bloody_vertebra"
+          }
+        ]
+      }
+   
+     }
+   }
+ },
+ "requirements": [
+    [
+      "has_bloody_vertebra",
+    ]
+  ]
+}

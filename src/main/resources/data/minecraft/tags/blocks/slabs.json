@@ -1,0 +1,11 @@
+{
+	"replace": false,
+	"values": [
+		"hardmode:crystal_slab",
+		"hardmode:palladium_slab",
+		"hardmode:orichalcum_slab",
+		"hardmode:adamantite_slab",
+		"hardmode:molten_slab",
+		"hardmode:chlorophyte_slab"
+	]
+}

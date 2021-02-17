@@ -1,0 +1,137 @@
+{
+  "parent": "hardmode:adventure/get_chloroseeds",
+  "display": {
+    "icon": {
+      "item": "hardmode:chlorophyte_chestplate"
+    },
+    "title": {
+      "translate": "advancements.adventure.get_chlorophyte_gear.title"
+    },
+    "description": {
+      "translate": "advancements.adventure.get_chlorophyte_gear.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "rewards": {
+    "experience": 500
+  },
+  "criteria": {
+    "chlorophyte_sword": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:chlorophyte_sword"   
+          }
+        ]
+      }
+    },
+    "chlorophyte_pickaxe": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:chlorophyte_pickaxe"   
+          }
+        ]
+      }
+    },
+    "chlorophyte_waraxe": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:chlorophyte_waraxe"   
+          }
+        ]
+      }
+    },
+    "chlorophyte_shovel": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:chlorophyte_shovel"   
+          }
+        ]
+      }
+    },
+    "chlorophyte_hoe": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:chlorophyte_hoe"   
+          }
+        ]
+      }
+    },
+    "chlorophyte_helmet": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:chlorophyte_helmet"   
+          }
+        ]
+      }
+    },
+    "chlorophyte_chestplate": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:chlorophyte_chestplate"   
+          }
+        ]
+      }
+    },
+    "chlorophyte_leggings": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:chlorophyte_leggings"   
+          }
+        ]
+      }
+    },
+    "chlorophyte_boots": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:chlorophyte_boots"   
+          }
+        ]
+      }
+    },
+    "chlorophyte_repeater": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:chlorophyte_repeater"   
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "chlorophyte_sword",
+      "chlorophyte_pickaxe",
+      "chlorophyte_waraxe",
+      "chlorophyte_shovel",
+      "chlorophyte_hoe",
+      "chlorophyte_helmet",
+      "chlorophyte_chestplate",
+      "chlorophyte_leggings",
+      "chlorophyte_boots",
+      "chlorophyte_repeater"
+    ]
+  ]
+}

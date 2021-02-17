@@ -1,0 +1,42 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "hardmode:chlorophyte_sword",
+      "hardmode:chlorophyte_sword_from_crimson",
+      "hardmode:chlorophyte_pickaxe",
+      "hardmode:chlorophyte_pickaxe_from_crimson",
+      "hardmode:chlorophyte_waraxe",
+      "hardmode:chlorophyte_shovel",
+      "hardmode:chlorophyte_hoe",
+      "hardmode:chlorophyte_helmet",
+      "hardmode:chlorophyte_chestplate",
+      "hardmode:chlorophyte_leggings",
+      "hardmode:chlorophyte_boots",
+      "hardmode:chlorophyte_block",
+      "hardmode:chlorophyte_bricks",
+      "hardmode:chlorophyte_repeater",
+      "hardmode:chloroseeds",
+      "hardmode:sun_stone"
+    ]
+  },
+  "criteria": {
+    "has_chlorophyte_bar": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:chlorophyte_bar"
+          }
+        ]
+      }
+   
+     }
+   }
+ },
+ "requirements": [
+    [
+      "has_chlorophyte_bar",
+    ]
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "NDN"
+  ],
+  
+   "key": {
+      "A": {
+      "item": "hardmode:adamantite_ingot"
+      },
+      
+      "N": {
+      "item": "hardmode:nano_boost"
+      },
+      
+      "D": {
+      "item": "hardmode:true_dragon_blade"
+      }
+      
+    },
+   "result": {
+    "item": "hardmode:nano_blade"
+  }
+}

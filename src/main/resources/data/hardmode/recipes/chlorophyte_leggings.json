@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CTC",
+    "CCC"
+  ],
+  
+   "key": {
+      "T": {
+      "item": "hardmode:adamantite_leggings"
+      },
+      
+      "C": {
+      "item": "hardmode:chlorophyte_bar"
+      }
+      
+    },
+   "result": {
+    "item": "hardmode:chlorophyte_leggings"
+  }
+}

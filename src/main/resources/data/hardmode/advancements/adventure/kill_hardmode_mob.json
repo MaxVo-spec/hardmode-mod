@@ -1,0 +1,126 @@
+{
+  "parent": "minecraft:adventure/kill_a_mob",
+  "display": {
+    "icon": {
+      "item": "hardmode:palladium_sword",
+      "nbt": "{Damage:0}"
+    },
+    "title": {
+      "translate": "advancements.adventure.kill_hardmode_mob.title"
+    },
+    "description": {
+      "translate": "advancements.adventure.kill_hardmode_mob.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+
+  "criteria": {
+    "hardmode:super_zombie": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "hardmode:super_zombie"
+        }
+      }
+    },
+    "hardmode:werewolf": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "hardmode:werewolf"
+        }
+      }
+    },
+    "hardmode:psycho": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "hardmode:psycho"
+        }
+      }
+    },
+    "hardmode:reaper": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "hardmode:reaper"
+        }
+      }
+    },
+    "hardmode:player_assassin": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "hardmode:player_assassin"
+        }
+      }
+    },
+    "hardmode:titan": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "hardmode:titan"
+        }
+      }
+    },
+    "hardmode:fire_demon": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "hardmode:fire_demon"
+        }
+      }
+    },
+    "hardmode:super_spider": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "hardmode:super_spider"
+        }
+      }
+    },
+    "hardmode:demon_eye": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "hardmode:demon_eye"
+        }
+      }
+    },
+    "hardmode:face_monster": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "hardmode:face_monster"
+        }
+      }
+    },
+    "hardmode:eye_of_cthulhu": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "hardmode:eye_of_cthulhu"
+        }
+      }
+    }
+   },
+
+  "requirements": [
+    [
+      "hardmode:super_zombie",
+      "hardmode:werewolf",
+      "hardmode:psycho",
+      "hardmode:reaper",
+      "hardmode:player_assassin",
+      "hardmode:titan",
+      "hardmode:fire_demon",
+      "hardmode:super_spider",
+      "hardmode:demon_eye",
+      "hardmode:face_monster",
+      "hardmode:eye_of_cthulhu"
+      ]    
+  ]
+}

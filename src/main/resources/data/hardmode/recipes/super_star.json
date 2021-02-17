@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " G ",
+    "GSG",
+    "GDG"
+  ],
+  
+   "key": {
+      "G": {
+      "item": "minecraft:gold_ingot"
+      },
+      
+      "D": {
+      "item": "minecraft:diamond_block"
+      },
+      
+      "S": {
+      "item": "hardmode:star_fragment"
+      }
+      
+    },
+   "result": {
+    "item": "hardmode:super_star"
+  }
+}

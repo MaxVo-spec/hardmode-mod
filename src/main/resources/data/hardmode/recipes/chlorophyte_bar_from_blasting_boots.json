@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "hardmode:chlorophyte_boots"
+  },
+  
+  "result": "hardmode:chlorophyte_bar",
+  "experience": 4.0,
+  "cookingtime": 200
+}

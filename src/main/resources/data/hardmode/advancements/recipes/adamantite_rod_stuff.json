@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "hardmode:adamantite_sword",
+      "hardmode:adamantite_pickaxe",
+      "hardmode:adamantite_waraxe",
+      "hardmode:adamantite_shovel",
+      "hardmode:adamantite_hoe",
+      "hardmode:adamantite_ingot_from_rod"
+    ]
+  },
+  "criteria": {
+    "has_adamantite_rod": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:adamantite_rod"
+          }
+        ]
+      }
+   
+     }
+   }
+ },
+ "requirements": [
+    [
+      "has_adamantite_rod",
+    ]
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  
+  "ingredients": [
+  
+    {"item":"hardmode:moon_stone"},
+    {"item":"hardmode:sun_stone"}
+    
+  ],
+  
+  "result": {
+    "item": "hardmode:celestial_stone"
+  }
+}

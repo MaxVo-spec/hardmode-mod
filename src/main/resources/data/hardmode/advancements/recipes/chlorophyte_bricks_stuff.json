@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "hardmode:chlorophyte_stairs",
+      "hardmode:chlorophyte_slab"
+    ]
+  },
+  "criteria": {
+    "has_chlorophyte_bricks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:chlorophyte_bricks"
+          }
+        ]
+      }
+   
+     }
+   }
+ },
+ "requirements": [
+    [
+      "has_chlorophyte_bricks",
+    ]
+  ]
+}

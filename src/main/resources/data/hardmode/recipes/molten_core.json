@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " M ",
+    "MMM",
+    " M "
+  ],
+  "key": {
+    "M": {
+      "item": "hardmode:molten_bar"
+    }
+  },
+  "result": {
+    "item": "hardmode:molten_core"
+  }
+}

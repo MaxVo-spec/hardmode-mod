@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "hardmode:dragon_egg",
+      "hardmode:dragon_egg2"
+    ]
+  },
+  "criteria": {
+    "has_shadow_core_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:shadow_core_item"
+          }
+        ]
+      }
+   
+     }
+   }
+ },
+ "requirements": [
+    [
+      "has_shadow_core_item",
+    ]
+  ]
+}

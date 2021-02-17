@@ -1,0 +1,45 @@
+modLoader="javafml"
+
+loaderVersion="[31,)"
+
+[[mods]] 
+
+modId="hardmode" 
+version="1.5" 
+displayName="Hardmode Mod" 
+
+logoFile="icon.png" 
+
+credits="A big thanks to TurtyWurty, who helped me a lot with his modding tutorial on his YouTube channel ! Hardmode Mod now also uses Geckolib ! "
+
+authors="Made by Saitaquack" 
+
+description='''
+Disclaimers :
+
+-The Hardmode Mod requires Geckolib 2.0.0 for 1.15.2 to run !
+
+
+The Hardmode mod aims to add post-Enderdragon content by adding "Hardmode", without changing the experience before the Enderdragon fight. "Hardmode" extends the game by adding new powerful mobs to fight against and new resources to collect.
+This mod is heavily inspired by Terraria and uses many textures from the game as well.
+
+Thank you for downloading The Hardmode Mod. You are the best <3'''
+
+[[dependencies.hardmode]] 
+
+    modId="forge" #mandatory
+ 
+    mandatory=true #mandatory
+
+    versionRange="[31,)" 
+
+    ordering="NONE"
+
+    side="BOTH"
+
+[[dependencies.hardmode]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"

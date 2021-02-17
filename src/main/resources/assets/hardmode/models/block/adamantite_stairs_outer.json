@@ -1,0 +1,9 @@
+
+{
+    "parent": "block/outer_stairs",
+    "textures": {
+        "bottom": "hardmode:blocks/adamantite_bricks",
+        "top": "hardmode:blocks/adamantite_bricks",
+        "side": "hardmode:blocks/adamantite_bricks"
+    }
+}

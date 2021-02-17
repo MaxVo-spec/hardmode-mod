@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    "EKE",
+    "OOO"
+  ],
+  
+   "key": {
+      "E": {
+      "item": "hardmode:ender_dragon_essence"
+      },
+      
+      "K": {
+      "item": "hardmode:katana"
+      },
+      
+      "O": {
+      "item": "hardmode:orichalcum_ingot"
+      }
+      
+    },
+   "result": {
+    "item": "hardmode:true_dragon_blade"
+  }
+}

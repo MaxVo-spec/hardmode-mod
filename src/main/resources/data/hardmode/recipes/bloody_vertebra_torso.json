@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X X",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "hardmode:bloody_vertebra"
+    }
+  },
+  "result": {
+    "item": "hardmode:bloody_vertebra_torso"
+  }
+}

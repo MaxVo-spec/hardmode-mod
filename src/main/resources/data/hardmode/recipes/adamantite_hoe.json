@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XX",
+    " #",
+    " #"
+  ],
+  "key": {
+    "#": {
+      "item": "hardmode:adamantite_rod"
+    },
+    "X": {
+      "item": "hardmode:adamantite_ingot"
+    }
+  },
+  "result": {
+    "item": "hardmode:adamantite_hoe"
+  }
+}

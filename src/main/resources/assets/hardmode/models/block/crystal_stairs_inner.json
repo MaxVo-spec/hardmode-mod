@@ -1,0 +1,9 @@
+
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "hardmode:blocks/crystal_block",
+        "top": "hardmode:blocks/crystal_block",
+        "side": "hardmode:blocks/crystal_block"
+    }
+}

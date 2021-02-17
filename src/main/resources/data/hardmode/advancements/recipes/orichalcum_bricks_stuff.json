@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "hardmode:orichalcum_stairs",
+      "hardmode:orichalcum_slab"
+    ]
+  },
+  "criteria": {
+    "has_orichalcum_bricks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:orichalcum_bricks"
+          }
+        ]
+      }
+   
+     }
+   }
+ },
+ "requirements": [
+    [
+      "has_orichalcum_bricks",
+    ]
+  ]
+}

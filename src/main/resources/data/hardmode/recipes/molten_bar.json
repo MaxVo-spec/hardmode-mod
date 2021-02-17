@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  
+  "ingredients": [
+  
+    {"item": "hardmode:hellstone_chunk"},
+    {"item": "hardmode:hellstone_chunk"},
+    {"item": "hardmode:hellstone_chunk"},
+    {"item": "minecraft:obsidian"},
+    {"item": "minecraft:magma_block"}
+     
+  ],
+  
+  "result": {
+    "item": "hardmode:molten_bar"
+  }
+}

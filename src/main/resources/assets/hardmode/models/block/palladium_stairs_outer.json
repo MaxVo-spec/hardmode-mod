@@ -1,0 +1,9 @@
+
+{
+    "parent": "block/outer_stairs",
+    "textures": {
+        "bottom": "hardmode:blocks/palladium_bricks",
+        "top": "hardmode:blocks/palladium_bricks",
+        "side": "hardmode:blocks/palladium_bricks"
+    }
+}

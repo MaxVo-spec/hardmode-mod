@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "hardmode:block/crystal_slab" },
+        "type=top": { "model": "hardmode:block/crystal_slab_top" },
+        "type=double": { "model": "hardmode:block/crystal_block" }
+    }
+}

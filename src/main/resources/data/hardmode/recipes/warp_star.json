@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ESE",
+    "SSS",
+    "ESE"
+  ],
+  
+   "key": {
+      "E": {
+      "item": "minecraft:ender_pearl"
+      },
+      
+      "S": {
+      "item": "hardmode:star_fragment"
+      }
+      
+    },
+   "result": {
+    "item": "hardmode:warp_star"
+  }
+}

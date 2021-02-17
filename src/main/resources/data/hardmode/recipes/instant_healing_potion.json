@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  
+  "ingredients": [
+  
+    {"item":"minecraft:glass_bottle"},
+    {"item": "hardmode:crystal_shard"}
+    
+  ],
+  
+  "result": {
+    "item": "hardmode:instant_healing_potion"
+  }
+}

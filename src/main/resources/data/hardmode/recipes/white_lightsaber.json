@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "E",
+    "S",
+    "I"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "hardmode:star_fragment"
+    },
+     "E": {
+      "item": "minecraft:shulker_shell"
+    }
+  },
+  "result": {
+    "item": "hardmode:white_lightsaber"
+  }
+}

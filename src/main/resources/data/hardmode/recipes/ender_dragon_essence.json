@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "BDB",
+    "BBB"
+  ],
+  
+   "key": {
+      "B": {
+      "item": "minecraft:blaze_powder"
+      },
+      
+      "D": {
+      "item": "minecraft:dragon_egg"
+      }
+      
+    },
+   "result": {
+    "item": "hardmode:ender_dragon_essence",
+    "count": 64
+  }
+}

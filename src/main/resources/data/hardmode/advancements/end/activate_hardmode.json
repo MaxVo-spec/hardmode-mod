@@ -1,0 +1,38 @@
+{
+  "parent": "hardmode:end/get_shadow_core",
+  "display": {
+    "icon": {
+      "item": "hardmode:hardmode_medallion"
+    },
+    "title": {
+      "translate": "advancements.end.activate_hardmode.title"
+    },
+    "description": {
+      "translate": "advancements.end.activate_hardmode.description"
+     },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "rewards": {
+    "experience": 500
+  },
+  "criteria": {
+    "hardmode_medallion": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:hardmode_medallion"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "hardmode_medallion"
+    ]
+  ]
+}

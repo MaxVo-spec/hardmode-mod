@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "hardmode:palladium_sword",
+      "hardmode:palladium_pickaxe",
+      "hardmode:palladium_waraxe",
+      "hardmode:palladium_shovel",
+      "hardmode:palladium_hoe",
+      "hardmode:palladium_ingot_from_rod"
+    ]
+  },
+  "criteria": {
+    "has_palladium_rod": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "hardmode:palladium_rod"
+          }
+        ]
+      }
+   
+     }
+   }
+ },
+ "requirements": [
+    [
+      "has_palladium_rod",
+    ]
+  ]
+}

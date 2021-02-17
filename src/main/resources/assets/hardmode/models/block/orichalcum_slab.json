@@ -1,0 +1,9 @@
+
+{
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "hardmode:blocks/orichalcum_bricks",
+        "top": "hardmode:blocks/orichalcum_bricks",
+        "side": "hardmode:blocks/orichalcum_bricks"
+    }
+}

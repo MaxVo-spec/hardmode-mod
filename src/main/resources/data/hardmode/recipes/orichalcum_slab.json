@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "hardmode:orichalcum_bricks"
+    }
+  },
+  "result": {
+    "item": "hardmode:orichalcum_slab",
+    "count": 6
+  }
+}

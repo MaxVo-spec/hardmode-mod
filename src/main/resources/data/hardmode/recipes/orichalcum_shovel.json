@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "hardmode:orichalcum_rod"
+    },
+    "X": {
+      "item": "hardmode:orichalcum_ingot"
+    }
+  },
+  "result": {
+    "item": "hardmode:orichalcum_shovel"
+  }
+}
